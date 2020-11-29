@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/asixGV/PRACTICA18B
+# https://asciinema.org/a/ApZRKfmRtnxlvoq4KpCq0xJZ3
 # >&2 --> Ens redirigeix un fluxe a un file descriptor.
 # ens redirigeix stdout a stderr 1>&2 o >&2
 # ens redirigeix stderr a stdout 2>&1 o >&1
